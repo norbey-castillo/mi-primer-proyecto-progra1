@@ -9,4 +9,4 @@
 
 ## aca solo agg el cambio que hice en la rama extra, no le ponga atencion jajs
 
-- no me recordaba como crear otra rama porque se me olvido apuntar el comando, pero ya pude jajs.
+- no me recordaba como crear otra rama porque se me olvido apuntar el comando, pero ya pude jajs
