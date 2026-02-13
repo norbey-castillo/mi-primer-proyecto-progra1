@@ -1,0 +1,20 @@
+ ¿Qué aprendiste sobre el flujo de trabajo con Git y
+GitHub?
+
+aprendi a como interactuar con el repositorio desde la consola sin necesidad de tener que estar accediendo
+manualmente al repositorio en linea para clonar el repositorio o para subir los proyectos, 
+con git se vuelve todo como mas dinamico a la hora de hacer algun programa y algun proyecto.
+
+¿Cómo fue la experiencia de trabajar en pareja? ¿Encontraste algún
+conflicto? ¿Cómo lo resolviste?
+
+no tuve una pareja para hacerlo, asi que lo hice yo solito... no tuve ningun inconveniente. todo me funciono
+a la primera sin ningun inconveniente, si tuve un poco de complicacion a la hora de interactuar
+porque era mi primera vez usando GIT, pero conforme me fui adaptando al entorno
+y al uso se me fue haciendo mas fluido el uso.
+
+¿Qué ventajas crees que tiene usar Git en proyectos de programación?
+
+la facilidad de poder clonar, extraer y subir archivos a github, poder hacer un respaldo
+por si todo sale mal o mas de alguna cosa falla pues se puede volver a la version funcional
+sin que se haya perdido mucho.
